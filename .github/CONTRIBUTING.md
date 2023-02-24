@@ -1,7 +1,7 @@
 # How to contribute
 
 We welcome contributions from external contributors, and this document
-describes how to merge code changes into this my_test. 
+describes how to merge code changes into this my_test.
 
 ## Getting Started
 
